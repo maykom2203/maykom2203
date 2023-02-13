@@ -37,7 +37,7 @@
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
 
-	## Contato:
+	## Meus Contatos:
 <div align="center">
   
 
