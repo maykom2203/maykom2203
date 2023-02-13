@@ -10,7 +10,7 @@
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸MongoDB🔸API🔸</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸WordPress🔸MySQL Workbench</span></div>|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸MongoDB🔸API </span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸WordPress🔸MySQL Workbench</span></div>|
   </details>
 
 ## Minhas Tecnologias
@@ -31,5 +31,11 @@
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
 
+    
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maykom2203/maykom2203/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maykom2203/maykom2203/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maykom2203/maykom2203/output/github-contribution-grid-snake.svg">
+</picture>
 Apaixonado por tecnologia.
 
