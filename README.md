@@ -3,6 +3,16 @@
 
 ![Maykom GitHub stats](https://github-readme-stats.vercel.app/api?username=maykom2203&show_icons=true&theme=dracula&count_private=true)
 
+
+<details>
+    <summary><h4>Minhas habilidades técnicas</h4></summary>
+<div id='lojc' align="center">
+
+| Languages  | Frameworks | Technologies | Tools | 
+|---|---|---|---|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸MongoDB🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸WordPress🔸MySQL Workbench</span></div>|
+  </details>
+
 ## Minhas Tecnologias
 
 <div style="display: inline_block">
