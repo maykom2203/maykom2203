@@ -1,7 +1,13 @@
 
 ## Olá! Eu sou o Maykom Douglas 🖐️
 
-![Maykom GitHub stats](https://github-readme-stats.vercel.app/api?username=maykom2203&show_icons=true&theme=dracula&count_private=true)
+<!-- ![Maykom GitHub stats](https://github-readme-stats.vercel.app/api?username=maykom2203&show_icons=true&theme=dracula&count_private=true) -->
+
+<div align="center">
+  <a href="https://github.com/maykom2203/github-readme-stats"><img height="165em" alt="Maykom Douglas Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maykom2203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/maykom2203/github-readme-stats"><img height="165em" alt="Maykom Douglas Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maykom2203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
+</div>
 
 
 <details>
