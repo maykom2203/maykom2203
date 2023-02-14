@@ -1,6 +1,10 @@
 
 ## Olá! Eu sou o Maykom Douglas 🖐️
 
+
+Sou extremamente interessado pelo mundo da tecnologia, desde que cursava o ensino fundamental tive a certeza que era área em que queria atuar. Foi à partir de então que passei a me capacitar, fazendo diversos cursos, como técnico de Informática e logo após graduação em Analise e Desenvolvimento de Sistema. Atualmente eu estou estudando  desenvolvimento Full-Stack na Trybe
+
+
 <!-- ![Maykom GitHub stats](https://github-readme-stats.vercel.app/api?username=maykom2203&show_icons=true&theme=dracula&count_private=true) -->
 
 <div align="center">
