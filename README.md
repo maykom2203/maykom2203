@@ -20,7 +20,7 @@ Sou extremamente interessado pelo mundo da tecnologia, desde que cursava o ensin
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸MongoDB🔸API </span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸WordPress🔸MySQL Workbench</span></div>|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸tailwind🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸MongoDB🔸API </span></div>|<div id='lojc' align="center"><span>Linux🔸Bash🔸GitHub🔸Visual Studio Code🔸WordPress🔸MySQL Workbench</span></div>|
   </details>
 
 ## Minhas Tecnologias
